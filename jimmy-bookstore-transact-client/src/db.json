@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "categoryId": 1001,
+      "name": "Textbook"
+    },
+    {
+      "categoryId": 1002,
+      "name": "Fiction"
+    },
+    {
+      "categoryId": 1003,
+      "name": "Poetry"
+    },
+    {
+      "categoryId": 1004,
+      "name": "Fantasy"
+    }
+  ],
+  "books": [
+    {
+      "bookId": 1001,
+      "title": "Essential Calculus Skills Practice Workbook with Full Solutions",
+      "author": "Chris Mcmullen",
+      "price": 1069,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1002,
+      "title": "Introduction to Linear Algebra (5th Revised edition)",
+      "author": "Gilbert Strang",
+      "price": 7124,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1003,
+      "title": "The Linux Command Line, 2nd Edition: A Complete Introduction",
+      "author": "William E. Jr. Shotts",
+      "price": 1999,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1004,
+      "title": "Design Patterns: Elements of Reusable Object Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson",
+      "price": 7500,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1005,
+      "title": "The Rules of Programming: How to Write Better Code",
+      "author": "Chris Zimmerman",
+      "price": 4371,
+      "isPublic": true,
+      "categoryId": 1001
+    }
+  ]
+}
